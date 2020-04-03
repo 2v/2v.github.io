@@ -3,6 +3,7 @@ import { faCircle, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { faEnvelope, faComment } from '@fortawesome/free-regular-svg-icons';
 import {
   faGithub,
+  faYoutube,
   faZhihu,
   faFacebookF,
   faFacebook,
@@ -15,6 +16,7 @@ const installFontAwesome = () => {
     faChevronUp,
     faEnvelope,
     faGithub,
+    faYoutube,
     faZhihu,
     faFacebookF,
     faFacebook,

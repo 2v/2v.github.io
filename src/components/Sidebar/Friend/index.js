@@ -10,7 +10,7 @@ const { friends = [] } = config;
 
 const Friend = () => (
   <div className="friend">
-    <p>友情鏈接</p>
+    <p>Also check out: </p>
     {friends.map(friend => (
       <ExternalLink
         href={friend.href}
