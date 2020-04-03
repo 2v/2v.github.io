@@ -31,7 +31,7 @@ const Header = ({
               <img
                 src={parseImgur(authorImage, 'small-square')}
                 className="author-image"
-                alt={authorName}
+                alt=''
               />
             )}
             <span className="author-name">{authorName}</span>
