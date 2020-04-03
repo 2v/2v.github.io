@@ -37,17 +37,17 @@ const Sidebar = ({ totalCount, latestPosts }) => (
     <div className="about-me">
       <Link to={about} href={about} className="name">
         <img className="avatar" src={iconUrl} alt="ThomasB" />
-        <h4>Thomas B.</h4>
+        <h4>Thomas B. (2v)</h4>
       </Link>
       <p className="mb-1">{wordings[0]}</p>
       <p className="mb-3">{wordings[1]}</p>
       <Icon
-        href={`https://www.zhihu.com/people/${zhihuUsername}`}
-        icon={['fab', 'youtube']}
-      />
-      <Icon
         href={`https://github.com/${githubUsername}`}
         icon={['fab', 'github']}
+      />
+      <Icon
+        href={`https://www.youtube.com/channel/UCBX8QVz2xhZjad3Y2umQz4Q`}
+        icon={['fab', 'youtube']}
       />
       <Icon href={`mailto:${email}`} icon={['far', 'envelope']} />
       {facebook
