@@ -23,17 +23,17 @@ const Footer = () => (
             <br />
             The code is open source and available at&nbsp;
             <ExternalLink
-              href="https://github.com/calpa/gatsby-starter-calpa-blog"
-              title="calpa/gatsby-starter-calpa-blog"
+              href="https://github.com/2v/2v.github.io"
+              title="2v/2v.github.io"
             />
           </p>
           <p className="copyright">
             Copyright&nbsp;
-            <ExternalLink href="https://calpa.me/" title="&copy;Calpa" />
+            <ExternalLink href="https://2v.gg/" title="&copy;2v" />
             &nbsp;
             {config.title}
             {new Date().getFullYear()}
-            &nbsp;Theme by Calpa Liu
+            &nbsp;|&nbsp;Theme by Calpa Liu
           </p>
         </div>
       </div>

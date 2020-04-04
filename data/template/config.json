@@ -8,7 +8,7 @@
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
   "name": "Thomas Buckley",
-  "about": "/2018/05/01/about-calpa-liu/",
+  "about": "/",
   "email": "thomas@mvm.cx",
   "stats": {
     "image": "https://i.imgur.com/pcgqpoC.jpg",
@@ -33,12 +33,12 @@
     }
   ],
   "iconUrl": "https://i.imgur.com/pcgqpoC.jpg",
-  "wordings": ["Full stack developer", "High school student"],
+  "wordings": ["Full stack developer,", "High school student"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
       "href": "/guestbook/",
-      "title": "留言簿"
+      "title": "Bedwars"
     },
     {
       "href": "/tags/",
@@ -46,7 +46,7 @@
     },
     {
       "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "title": "Gaming"
     }
   ],
   "redirectors": [
