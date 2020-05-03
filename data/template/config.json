@@ -37,16 +37,16 @@
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
-      "href": "/guestbook/",
-      "title": "Bedwars"
+      "href": "/reading-list",
+      "title": "Reading List"
+    },
+    {
+      "href": "/about",
+      "title": "About"
     },
     {
       "href": "/tags/",
       "title": "Tags"
-    },
-    {
-      "href": "/2018/05/01/about-calpa-liu/",
-      "title": "Gaming"
     }
   ],
   "redirectors": [
