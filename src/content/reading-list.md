@@ -25,6 +25,7 @@ The following are a list of the books I am reading and have already read. This l
 * Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)
 * The Book of Life (Jiddu Krishnamurti)
 * Swann's Way (Proust, translated by Lydia Davis)
+* The Infinite Jest ([Infinite Summer](https://www.reddit.com/r/infinitesummer/))
 
 ## 2020
 ---
