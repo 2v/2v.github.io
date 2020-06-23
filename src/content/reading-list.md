@@ -24,11 +24,12 @@ The following are a list of the books I am reading and have already read. This l
 * The Design of the UNIX Operating System (Bach)
 * Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)
 * The Book of Life (Jiddu Krishnamurti)
-* Swann's Way (Proust, translated by Lydia Davis)
 * The Infinite Jest ([Infinite Summer](https://www.reddit.com/r/infinitesummer/))
+* In the Shadow of Young Girls in Flower (Proust)
 
 ## 2020
 ---
+* Swann's Way (Proust, translated by Lydia Davis)
 * Getting Things Done (Allen)
 * The Lord of the Rings Trilogy (Tolkien)
 * 365 Tao (Deng Ming-Dao)
