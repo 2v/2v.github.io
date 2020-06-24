@@ -19,6 +19,7 @@ The following are a list of the books I am reading and have already read. This l
 
 ## Currently reading
 ---
+* Como agua para chocolate (Laura Esquivel)
 * University Physics with Modern Physics (Sears and Zemansky)
 * The C Programming Language (Kernighan and Ritchie)
 * The Design of the UNIX Operating System (Bach)
