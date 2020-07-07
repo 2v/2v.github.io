@@ -19,6 +19,7 @@ The following are a list of the books I am reading and have already read. This l
 
 ## Currently reading
 ---
+* Linux Bible (Christopher Negus)
 * How to Prove It: A Structured Approach (Daniel J. Velleman)
 * Como agua para chocolate (Laura Esquivel)
 * University Physics with Modern Physics (Sears and Zemansky)
@@ -31,6 +32,7 @@ The following are a list of the books I am reading and have already read. This l
 
 ## 2020
 ---
+* Mastering the Art of French Cooking (Julia Child)
 * Swann's Way (Proust, translated by Lydia Davis)
 * Getting Things Done (Allen)
 * The Lord of the Rings Trilogy (Tolkien)
