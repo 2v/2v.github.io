@@ -11,9 +11,9 @@
   "about": "/",
   "email": "thomas@mvm.cx",
   "stats": {
-    "image": "https://i.imgur.com/pcgqpoC.jpg",
-    "title": "過去三十日數據",
-    "description": "過去三十日數據"
+    "image": "https://avatars3.githubusercontent.com/u/32546943?s=460&u=929af75584b237f437841356a033e49d1142d03b&v=4",
+    "title": "Thomas Buckley",
+    "description": "Profile Picture"
   },
   "title": "Thomas B. (2v) ",
   "gitalk": {
@@ -32,8 +32,8 @@
       "title": "Modern Valley Media"
     }
   ],
-  "iconUrl": "https://i.imgur.com/pcgqpoC.jpg",
-  "wordings": ["Full stack developer,", "High school student"],
+  "iconUrl": "https://avatars3.githubusercontent.com/u/32546943?s=460&u=929af75584b237f437841356a033e49d1142d03b&v=4",
+  "wordings": ["Full stack developer,", "UMass Amherst CICS"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
@@ -62,7 +62,6 @@
       "target": "/stats/"
     }
   ],
-  "zhihuUsername": "piao-xue-wu-ying",
   "githubUsername": "2v",
   "maxPostsInPage": 10,
   "facebook": "2v"

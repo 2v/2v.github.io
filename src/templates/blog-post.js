@@ -5,7 +5,7 @@
 import React, { Component } from 'react';
 import { graphql } from 'gatsby';
 
-import 'gitalk/dist/gitalk.css';
+// import 'gitalk/dist/gitalk.css';
 
 import { parseChineseDate } from '../api';
 
@@ -16,20 +16,19 @@ import SEO from '../components/SEO';
 
 import Header from '../components/Header';
 // import TableOfContent from '../components/TableOfContent';
-import ShareBox from '../components/ShareBox';
 
 import { config } from '../../data';
 
 // Styles
 import './blog-post.scss';
 
-const { name, iconUrl, gitalk } = config;
+const { name, iconUrl } = config;
 
 const bgWhite = { padding: '10px 30px', background: 'white' };
 
 // Prevent webpack window problem
-const isBrowser = typeof window !== 'undefined';
-const Gitalk = isBrowser ? require('gitalk') : undefined;
+// git const isBrowser = typeof window !== 'undefined';
+// const Gitalk = isBrowser ? require('gitalk') : undefined;
 
 class BlogPost extends Component {
   constructor(props) {
@@ -38,15 +37,15 @@ class BlogPost extends Component {
   }
 
   componentDidMount() {
-    const { frontmatter, id: graphqlId } = this.data.content.edges[0].node;
-    const { title, id } = frontmatter;
+    // const { frontmatter } = this.data.content.edges[0].node;
+    // const { title, id } = frontmatter;
 
-    const GitTalkInstance = new Gitalk({
-      ...gitalk,
-      title,
-      id: id || graphqlId,
-    });
-    GitTalkInstance.render('gitalk-container');
+    // const GitTalkInstance = new Gitalk({
+    //   ...gitalk,
+    //   title,
+    //   id: id || graphqlId,
+    // });
+    // GitTalkInstance.render('gitalk-container');
   }
 
   render() {
@@ -73,18 +72,18 @@ class BlogPost extends Component {
         <div className="col-xl-7 col-lg-6 col-md-12 col-sm-12 order-10 content">
           <Content post={html} />
           <div className="m-message" style={bgWhite}>
-            Post written by 
+            Post written by
             <ExternalLink
               href="https://github.com/2v"
               title=" Thomas Buckley. "
             />
-            Please don't take anything here as definite truth, any suggestions would be welcome!
+            Please do not take anything here as definite truth, any suggestions would be welcome!
           </div>
 
-          <div id="gitalk-container" />
+          {/* <div id="gitalk-container" /> */}
         </div>
 
-        <ShareBox url={slug} />
+        {/* <ShareBox url={slug} /> */}
 
         <SEO
           title={title}

@@ -21,12 +21,10 @@ The following are a list of the books I am reading and have already read. This l
 ---
 * Linux Bible (Christopher Negus)
 * How to Prove It: A Structured Approach (Daniel J. Velleman)
-* Como agua para chocolate (Laura Esquivel)
+* El Principito (Antoine de Saint-Exupery)
 * University Physics with Modern Physics (Sears and Zemansky)
 * The C Programming Language (Kernighan and Ritchie)
-* The Design of the UNIX Operating System (Bach)
 * Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)
-* The Book of Life (Jiddu Krishnamurti)
 * The Infinite Jest ([Infinite Summer](https://www.reddit.com/r/infinitesummer/))
 * In the Shadow of Young Girls in Flower (Proust)
 
