@@ -27,12 +27,13 @@ The following are a list of the books I am reading and have already read. This l
 * Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)
 * The Infinite Jest ([Infinite Summer](https://www.reddit.com/r/infinitesummer/))
 * In the Shadow of Young Girls in Flower (Proust)
+* A Tour of C++ (Stroustrup)
 
 ## 2020
 ---
+* The Hungry Brain (Stephan J. Guyenet Ph.D)
 * Mastering the Art of French Cooking (Julia Child)
 * Swann's Way (Proust, translated by Lydia Davis)
 * Getting Things Done (Allen)
 * The Lord of the Rings Trilogy (Tolkien)
 * 365 Tao (Deng Ming-Dao)
-* A Tour of C++ (Stroustrup)
