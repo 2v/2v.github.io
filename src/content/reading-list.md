@@ -23,14 +23,14 @@ The following are a list of the books I am reading and have already read. This l
 * How to Prove It: A Structured Approach (Daniel J. Velleman)
 * El Principito (Antoine de Saint-Exupery)
 * University Physics with Modern Physics (Sears and Zemansky)
-* The C Programming Language (Kernighan and Ritchie)
-* Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)
-* The Infinite Jest ([Infinite Summer](https://www.reddit.com/r/infinitesummer/))
+* Infinite Jest ([Infinite Summer](https://www.reddit.com/r/infinitesummer/))
 * In the Shadow of Young Girls in Flower (Proust)
 * A Tour of C++ (Stroustrup)
+* C++ GUI Programming with Qt 4 (Blanchette and Summerfield)
 
 ## 2020
 ---
+* Deep Work (Cal Newport)
 * The Hungry Brain (Stephan J. Guyenet Ph.D)
 * Mastering the Art of French Cooking (Julia Child)
 * Swann's Way (Proust, translated by Lydia Davis)
